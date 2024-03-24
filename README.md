@@ -1,4 +1,4 @@
-Bienvenido a nuestro emocionante juego quiz de debate bíblico, una experiencia interactiva diseñada para poner a prueba y mejorar tus conocimientos sobre la Biblia de una manera divertida y educativa.
+¡Bienvenido! a nuestro emocionante juego quiz de debate bíblico, una experiencia interactiva diseñada para poner a prueba y mejorar tus conocimientos sobre la Biblia de una manera divertida y educativa.
 
 ![quiz-react](https://github.com/Arnaldocloud/QUIZ-DESDE-CERO/assets/125355716/39e5abd0-325b-4e19-92a3-b3ef10d86fe3)
 
